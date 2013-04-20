@@ -1,13 +1,11 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
+#include<iostream>
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
+#include<cstdlib>
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
+using namespace;
+
+int main()
+{
+cout<<"Hello world";
+return 0;
+}
